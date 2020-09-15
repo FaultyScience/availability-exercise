@@ -9,3 +9,5 @@ Hi! Thanks for reviewing my code.
 * Generally prioritized readability over efficiency given size of data, but noted where this could be changed.
 * The error message can simply be some red text displayed under the form (design preference, could do a modal).
 * The data from the public endpoint could be updated at any time.
+
+**Note:** Back-end must be running for front-end tests to pass (endpoints are tested).
